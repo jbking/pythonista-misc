@@ -1,0 +1,70 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {240, 240}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{80, 34}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "alert",
+          "flex" : "WLR",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "Alert",
+          "uuid" : "901886EC-FFED-449E-9AF1-05E4CA2A85D2",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{80, 87}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "push",
+          "flex" : "WLR",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "Push",
+          "uuid" : "3EE88B8D-0E1D-45DD-B29B-0165507F7976",
+          "class" : "Button",
+          "name" : "button2",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{80, 141}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "hud_alert",
+          "flex" : "WLR",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "HUD Alert",
+          "uuid" : "6868D7BD-77D5-4E12-BFA3-8591EEDCE8F0",
+          "class" : "Button",
+          "name" : "button3",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
